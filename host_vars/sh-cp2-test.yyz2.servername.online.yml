@@ -1,0 +1,10 @@
+---
+
+NS1_PASS: "EDEKQUM9WLL34M0ER8OIAW85NNU2I2IL"
+NS2_PASS: "K6K7SNGL6IA8KJ5LC04FDKFAX83LJZ3S"
+server_type: "shared"
+server_dc: "yyz2"
+server_hostname: "sh-cp2-test.yyz2.servername.online"
+apache_ipv4: "66.102.132.207"
+apache_ipv4_netmask: "255.255.254.0"
+server_brand: "CA"
